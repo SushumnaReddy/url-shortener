@@ -23,7 +23,7 @@ A production-oriented **Full Stack URL Shortener** built using **React, FastAPI,
 ### Home Page
 
 ```
-![url-shortener](screenshots/home.png.png)
+![Home](screenshots/home.png.png)
 ---
 
 # 🏗️ Architecture
