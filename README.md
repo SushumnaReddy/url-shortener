@@ -20,10 +20,6 @@ A production-oriented **Full Stack URL Shortener** built using **React, FastAPI,
 
 ---
 
-# 🖼️ Screenshots
-
-> Replace these with screenshots after deployment.
-
 ### Home Page
 
 ```
