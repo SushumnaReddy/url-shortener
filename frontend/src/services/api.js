@@ -1,4 +1,4 @@
-const API_BASE_URL = "https://url-shortener-wly.onrender.com";
+const API_BASE_URL = "https://url-shortener-vvly.onrender.com";
 
 export async function shortenUrl(originalUrl, customAlias, expiryDays) {
   const response = await fetch(`${API_BASE_URL}/api/shorten`, {

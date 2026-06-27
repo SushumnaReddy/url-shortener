@@ -8,9 +8,9 @@ app = FastAPI(title="URL Shortener API")
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-    "http://127.0.0.1:8088",
     "http://localhost:8088",
-    "https://url-shortener-tan-zeta.vercel.app/"
+    "http://127.0.0.1:8088",
+    "https://url-shortener-tan-zeta.vercel.app"
 ],
     allow_credentials=True,
     allow_methods=["*"],
