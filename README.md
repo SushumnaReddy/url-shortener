@@ -29,11 +29,8 @@ A production-oriented **Full Stack URL Shortener** built using **React, FastAPI,
 ```
 /screenshots/home.png
 
----
-
 # 🏗️ Architecture
 
-```
                 React (Vite)
                      │
           REST API (HTTPS)
