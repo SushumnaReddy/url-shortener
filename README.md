@@ -81,28 +81,7 @@ A production-oriented **Full Stack URL Shortener** built using **React, FastAPI,
 
 # 📂 Project Structure
 
-```
-url-shortener/
 
-│
-├── backend/
-│   ├── app/
-│   │   ├── crud.py
-│   │   ├── database.py
-│   │   ├── models.py
-│   │   ├── routes/
-│   │   ├── schemas.py
-│   │   └── main.py
-│   └── requirements.txt
-│
-├── frontend/
-│   ├── src/
-│   ├── public/
-│   ├── package.json
-│   └── vite.config.js
-│
-└── docker-compose.yml
-```
 
 # ✨ Highlights
 
