@@ -131,7 +131,7 @@ GitHub:
 https://github.com/SushumnaReddy
 
 LinkedIn:
-https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/tetali-naga-sai-sushumna-reddy-252a73320/
+https://www.linkedin.com/in/tetali-naga-sai-sushumna-reddy-252a73320/
 
 ---
 
