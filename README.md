@@ -149,7 +149,7 @@ Through this project I learned how to:
 
 # 👨‍💻 Author
 
-**Sushumna Tetali**
+**Tetali Naga Sai Sushumna Reddy**
 
 GitHub:
 https://github.com/SushumnaReddy
